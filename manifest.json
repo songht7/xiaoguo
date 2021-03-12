@@ -59,7 +59,8 @@
     "mp-weixin" : {
         "appid" : "",
         "setting" : {
-            "urlCheck" : false
+            "urlCheck" : false,
+            "es6" : false
         },
         "usingComponents" : true
     },
@@ -81,6 +82,12 @@
             "mode" : "history"
         },
         "domain" : "www.meetji.com",
-        "template" : "pages/h5-temp.html"
+        "template" : "",
+        "sdkConfigs" : {
+            "maps" : {}
+        },
+        "devServer" : {
+            "https" : false
+        }
     }
 }
