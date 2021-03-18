@@ -11,6 +11,17 @@
 				// 	}
 				// }
 			}
+		}, {
+			"path": "pages/index/detail",
+			"style": {
+				"navigationBarTitleText": "效果英语",
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"type": "transparent"
+					}
+				}
+			}
 		}
 	],
 	"globalStyle": {
