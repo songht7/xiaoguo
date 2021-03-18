@@ -52,7 +52,7 @@
 					</view>
 					<view class="cont-row">
 						Xiaoguo English is an English Learning Application that allows users to learn, try and practise English dialogs
-						in a very interactive way. It’s evolutinal personal evaluation system will give users direct evaluations from
+						in a very interactive way. It's evolutinal personal evaluation system will give users direct evaluations from
 						each teacher and improve your English more efficiently.
 					</view>
 					<view class="cont-row">
